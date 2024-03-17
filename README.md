@@ -1,6 +1,6 @@
-# sesliproje
+# voiceproject
 
-A new Flutter project.
+A voice-guided introductory application has been designed, likened to the xylophone musical instrument.
 
 ## Getting Started
 
